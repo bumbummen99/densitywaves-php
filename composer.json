@@ -1,0 +1,19 @@
+{
+    "name": "skyraptor/densitywaves-php",
+    "description": "DensityWaves PHP - Generate star positions based on density wave theory.",
+    "keywords": ["php", "density", "wave", "waves", "theory", "density wave theory"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Patrick Henninger",
+            "email": "privat@skyraptor.eu",
+            "homepage": "https://skyraptor.eu/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SkyRaptor\\DensityWaves\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
